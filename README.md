@@ -1,2 +1,22 @@
 # cineweb-app
-Cine web app whit React Gatsby
+
+## If you don't have gatsby installed run the following command
+```
+npm i gatsby-cli
+```
+
+## Project setup
+```
+npm install
+```
+
+## Start project
+```
+npm start
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
